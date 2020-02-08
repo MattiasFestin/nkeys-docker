@@ -3,7 +3,7 @@
 Dockerified version of: https://github.com/nats-io/nkeys
 
 # Usage:
-`docker run mattiasfestin/nkeys pk [...args]`
+`docker run --rm mattiasfestin/nkeys pk [...args]`
 
 Orignial README:
 -----------------------
